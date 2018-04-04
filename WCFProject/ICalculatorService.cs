@@ -18,6 +18,9 @@ namespace CalculatorService
 
         [OperationContract]
         double AddToMemory(double n2);
+        
+        [OperationContract]
+        long DeltaTime(long time);
     }
     
 }

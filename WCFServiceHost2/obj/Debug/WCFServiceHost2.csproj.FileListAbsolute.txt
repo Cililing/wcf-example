@@ -8,3 +8,11 @@ C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2
 C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.csproj.CoreCompileInputs.cache
 C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.exe
 C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.pdb
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\bin\Debug\WCFServiceHost2.exe.config
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\bin\Debug\WCFServiceHost2.exe
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\bin\Debug\WCFServiceHost2.pdb
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\bin\Debug\WCFProject.dll
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\bin\Debug\WCFProject.pdb
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\obj\Debug\WCFServiceHost2.csprojResolveAssemblyReference.cache
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\obj\Debug\WCFServiceHost2.exe
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceHost2\obj\Debug\WCFServiceHost2.pdb

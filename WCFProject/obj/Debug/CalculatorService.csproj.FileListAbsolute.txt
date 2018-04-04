@@ -4,3 +4,8 @@ C:\Users\t-rex\source\repos\WCFProject\WCFProject\bin\Debug\WCFProject.pdb
 C:\Users\t-rex\source\repos\WCFProject\WCFProject\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
 C:\Users\t-rex\source\repos\WCFProject\WCFProject\obj\Debug\WCFProject.dll
 C:\Users\t-rex\source\repos\WCFProject\WCFProject\obj\Debug\WCFProject.pdb
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFProject\bin\Debug\WCFProject.dll.config
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFProject\bin\Debug\WCFProject.dll
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFProject\bin\Debug\WCFProject.pdb
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFProject\obj\Debug\WCFProject.dll
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFProject\obj\Debug\WCFProject.pdb

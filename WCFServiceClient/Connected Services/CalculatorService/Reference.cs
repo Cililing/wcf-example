@@ -32,6 +32,12 @@ namespace WCFServiceClient.CalculatorService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculatorService/AddToMemory", ReplyAction="http://tempuri.org/ICalculatorService/AddToMemoryResponse")]
         System.Threading.Tasks.Task<double> AddToMemoryAsync(double n2);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculatorService/DeltaTime", ReplyAction="http://tempuri.org/ICalculatorService/DeltaTimeResponse")]
+        long DeltaTime(long time);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculatorService/DeltaTime", ReplyAction="http://tempuri.org/ICalculatorService/DeltaTimeResponse")]
+        System.Threading.Tasks.Task<long> DeltaTimeAsync(long time);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -83,6 +89,14 @@ namespace WCFServiceClient.CalculatorService {
         
         public System.Threading.Tasks.Task<double> AddToMemoryAsync(double n2) {
             return base.Channel.AddToMemoryAsync(n2);
+        }
+        
+        public long DeltaTime(long time) {
+            return base.Channel.DeltaTime(time);
+        }
+        
+        public System.Threading.Tasks.Task<long> DeltaTimeAsync(long time) {
+            return base.Channel.DeltaTimeAsync(time);
         }
     }
 }

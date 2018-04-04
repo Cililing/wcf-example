@@ -27,5 +27,10 @@ namespace CalculatorService
             memory += n2;
             return memory;
         }
+
+        public long DeltaTime(long time)
+        {
+            return DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond - time;
+        }
     }
 }

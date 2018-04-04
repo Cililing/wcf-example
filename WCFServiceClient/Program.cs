@@ -30,9 +30,15 @@ namespace WCFServiceClient
                 Console.WriteLine(client?.AddToMemory(0.1d));
                 Console.WriteLine(client?.AddToMemory(0.1d));
 
-                client?.Close();
             });
 
+            workers.ForEach(client =>
+            {
+                Console.WriteLine("Time Operations on client {0}", client.Endpoint.ListenUri.ToString());
+                Console.WriteLine(client?.DeltaTime(DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond));
+            });
+
+            // Close clients
             workers.ForEach(client =>
             {
                 client?.Close();

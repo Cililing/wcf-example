@@ -5,3 +5,8 @@ C:\Users\t-rex\source\repos\WCFProject\WCFServiceClient\obj\Debug\WCFServiceClie
 C:\Users\t-rex\source\repos\WCFProject\WCFServiceClient\obj\Debug\WCFServiceClient.exe
 C:\Users\t-rex\source\repos\WCFProject\WCFServiceClient\obj\Debug\WCFServiceClient.pdb
 C:\Users\t-rex\source\repos\WCFProject\WCFServiceClient\obj\Debug\WCFServiceClient.csprojResolveAssemblyReference.cache
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+D:\lab\UsersRSI\stud\Documents\QWERTY\wcfexample\WCFServiceClient\obj\Debug\WCFServiceClient.pdb
