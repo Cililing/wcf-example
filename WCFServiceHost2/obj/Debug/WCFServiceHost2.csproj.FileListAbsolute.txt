@@ -1,0 +1,10 @@
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\bin\Debug\WCFServiceHost2.exe.config
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\bin\Debug\WCFServiceHost2.exe
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\bin\Debug\WCFServiceHost2.pdb
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\bin\Debug\WCFProject.dll
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\bin\Debug\WCFProject.pdb
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\bin\Debug\WCFProject.dll.config
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.csprojResolveAssemblyReference.cache
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.csproj.CoreCompileInputs.cache
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.exe
+C:\Users\t-rex\source\repos\WCFProject\WCFServiceHost2\obj\Debug\WCFServiceHost2.pdb
